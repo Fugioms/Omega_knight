@@ -5,6 +5,7 @@
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"obj_chao","path":"objects/obj_chao/obj_chao.yy",},"order":1,},
+    {"id":{"name":"spr_Fundo","path":"sprites/spr_Fundo/spr_Fundo.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
