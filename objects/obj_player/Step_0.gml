@@ -13,14 +13,12 @@ jump=keyboard_check_pressed(vk_space)
 velh=(right-left)*max_velh
 if (chao)
 {
-if(jump) velv= -max_velv
+if(jump) velv= -max_velv*2
+audio_play_sound(sd_changes,100,false)
+audio_play_sound(sd_pulo,99,false)
 }
 else
 {
 	velv+=grav
 }
 
-if (chao)
-{
-	audio_play_sound(sd_changes,1,false)
-}

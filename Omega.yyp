@@ -1,11 +1,14 @@
 {
   "resources": [
     {"id":{"name":"11","path":"notes/11/11.yy",},"order":0,},
+    {"id":{"name":"obj_changes","path":"objects/obj_changes/obj_changes.yy",},"order":2,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"sd_changes","path":"sounds/sd_changes/sd_changes.yy",},"order":0,},
     {"id":{"name":"spr_chao","path":"sprites/spr_chao/spr_chao.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"obj_chao","path":"objects/obj_chao/obj_chao.yy",},"order":1,},
+    {"id":{"name":"sd_pulo","path":"sounds/sd_pulo/sd_pulo.yy",},"order":1,},
+    {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":3,},
     {"id":{"name":"spr_Fundo","path":"sprites/spr_Fundo/spr_Fundo.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
