@@ -19,3 +19,8 @@ else
 {
 	velv+=grav
 }
+
+if (chao)
+{
+	audio_play_sound(sd_changes,1,false)
+}

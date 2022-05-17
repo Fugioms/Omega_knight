@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"11","path":"notes/11/11.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
+    {"id":{"name":"sd_changes","path":"sounds/sd_changes/sd_changes.yy",},"order":0,},
     {"id":{"name":"spr_chao","path":"sprites/spr_chao/spr_chao.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"obj_chao","path":"objects/obj_chao/obj_chao.yy",},"order":1,},
