@@ -13,6 +13,17 @@ repeat(abs(velv))
 		velv=0
 		break
 	}
+	
+		if(!place_meeting(x,y+sign(velv),obj_chao))
+	{
+		y-=sign(velv)
+	}
+	else
+	{
+		velv=0
+		break
+	}
+
 }
 x+=velh
 
