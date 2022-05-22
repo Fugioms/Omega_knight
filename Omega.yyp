@@ -1,7 +1,6 @@
 {
   "resources": [
     {"id":{"name":"11","path":"notes/11/11.yy",},"order":0,},
-    {"id":{"name":"obj_changes","path":"objects/obj_changes/obj_changes.yy",},"order":2,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":0,},
     {"id":{"name":"spr_chao","path":"sprites/spr_chao/spr_chao.yy",},"order":1,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
